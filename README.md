@@ -32,5 +32,4 @@ Notes for resume:
 Optional improvements 
 - Wrap logic into C++ classes (Book, Member, Issue, DBConnector).
 - Use MySQL Connector/C++ to leverage C++-style API.
-- Add a web frontend using Flask (Python) or a REST API to practice full-stack integration.
 - Add unit tests and input validation/error handling for production-readiness.
